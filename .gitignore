@@ -1,0 +1,17 @@
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Build (if you add a bundler later)
+dist/
+build/
+
+# Environment
+.env

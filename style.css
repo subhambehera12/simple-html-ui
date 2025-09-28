@@ -1,0 +1,6 @@
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: Arial, sans-serif; }
+body { line-height: 1.5; color: #222; background: #f7f7f8; }
+.site-header { background: #0b5cff; color: #fff; padding: 18px 24px; display:flex; justify-content:space-between; align-items:center; }
+.site-header nav a { color: #fff; margin-left: 12px; text-decoration: none; font-weight:600; }
+.hero { padding: 40px 24px; text-align:center; }
+.site-footer { padding: 12px 24px; text-align:center; color:#666; }
